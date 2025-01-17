@@ -1,4 +1,4 @@
-### Hi there 👋--> My name is Goomby
+### Hi there 👋--> My name is Meowskii
 
 <!--
 **Goomby/goomby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
